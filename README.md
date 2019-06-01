@@ -13,7 +13,7 @@
 	
 # Answers
 
-	Answer 1: 
+	Answer 1:  
 		* "Candidate is jerk, alleges rival" - 338647 views
 		* "Bears love berries, alleges bear" - 253801 views
 		* "Bad things gone, say good people" - 170098 views
